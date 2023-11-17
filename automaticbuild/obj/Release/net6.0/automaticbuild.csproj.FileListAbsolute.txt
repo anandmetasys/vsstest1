@@ -1,0 +1,8 @@
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.csproj.AssemblyReference.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.AssemblyInfoInputs.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.AssemblyInfo.cs
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.csproj.CoreCompileInputs.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.RazorAssemblyInfo.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Release\net6.0\automaticbuild.RazorAssemblyInfo.cs
