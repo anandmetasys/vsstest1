@@ -29,3 +29,11 @@ C:\Users\anandkumary.METASYS\source\repos\Bluetoothdevice\camparedb\automaticbui
 C:\Users\anandkumary.METASYS\source\repos\Bluetoothdevice\camparedb\automaticbuild\automaticbuild\obj\Debug\net6.0\automaticbuild.pdb
 C:\Users\anandkumary.METASYS\source\repos\Bluetoothdevice\camparedb\automaticbuild\automaticbuild\obj\Debug\net6.0\automaticbuild.genruntimeconfig.cache
 C:\Users\anandkumary.METASYS\source\repos\Bluetoothdevice\camparedb\automaticbuild\automaticbuild\obj\Debug\net6.0\ref\automaticbuild.dll
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.csproj.AssemblyReference.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.AssemblyInfoInputs.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.AssemblyInfo.cs
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.csproj.CoreCompileInputs.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.RazorAssemblyInfo.cache
+C:\Users\anandkumary.METASYS\source\repos\vsstest1\automaticbuild\obj\Debug\net6.0\automaticbuild.RazorAssemblyInfo.cs
